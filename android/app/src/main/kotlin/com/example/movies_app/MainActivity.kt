@@ -1,4 +1,4 @@
-package com.example.examen_final_camps
+package com.example.movies_app
 
 import io.flutter.embedding.android.FlutterActivity
 
